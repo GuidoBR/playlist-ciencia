@@ -75,5 +75,16 @@
       "youtube": "https://www.youtube.com/watch?v=rnMYZnY3uLA"
     },
     "tags": ["biologia", "evolução"]
+  },
+  {
+    "title": "A USP, o câncer, e a 'cura' (#Pirula 117)",
+    "presenter": "Pirula",
+    "year": 2015,
+    "venue": "Canal do Pirula",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=L51NrrK1APQ"
+    },
+    "tags": ["cancer", "medicina"]
   }
 ]
