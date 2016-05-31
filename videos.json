@@ -110,6 +110,32 @@
     "tags": ["NASA"]
   },
   {
+    "title": "Newtonian Gravity: Crash Course Physics #8",
+    "presenter": "Iberê Thenório",
+    "year": 2016,
+    "venue": "Crash Course",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=7gf6YpdvtE0"
+    },
+    "language": "en",
+    "subtitles": ["pt-br"],
+    "tags": ["Newton", "physics", "fisica"]
+  },
+  {
+    "title": "Friction: Crash Course Physics #6",
+    "presenter": "Iberê Thenório",
+    "year": 2016,
+    "venue": "Crash Course",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=fo_pmp5rtzo"
+    },
+    "language": "en",
+    "subtitles": ["pt-br"],
+    "tags": ["friction", "fricção", "physics", "fisica"]
+  },
+  {
     "title": "A USP, o câncer, e a 'cura' (#Pirula 117)",
     "presenter": "Pirula",
     "year": 2015,
