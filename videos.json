@@ -110,6 +110,17 @@
     "tags": ["NASA"]
   },
   {
+    "title": "Sol de laboratório",
+    "presenter": "Pesquisa FAPESP",
+    "year": 2015,
+    "venue": "Pesquisa FAPESP",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=sCqoL-OVsVM"
+    },
+    "tags": ["FAPESP", "fisica"]
+  },
+  {
     "title": "Newtonian Gravity: Crash Course Physics #8",
     "presenter": "Iberê Thenório",
     "year": 2016,
