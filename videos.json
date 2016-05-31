@@ -20,5 +20,60 @@
       "youtube": "https://www.youtube.com/watch?v=d_5_MAqsPOM"
     },
     "tags": ["nerdologia", "exoplanetas", "fisica", "astronomia"]
+  },
+  {
+    "title": "Como Funciona a Homeopatia? | Nerdologia 118",
+    "presenter": "Átila",
+    "year": 2016,
+    "venue": "Nerdologia",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=26AgMFsh-98"
+    },
+    "tags": ["homeopatia", "placebo"]
+  },
+  {
+    "title": "Energia | Nerdologia 111",
+    "presenter": "Átila",
+    "year": 2015,
+    "venue": "Nerdologia",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=pXtVUobPQLs"
+    },
+    "tags": ["energia"]
+  },
+  {
+    "title": "Vírus Zika | Nerdologia 112",
+    "presenter": "Átila",
+    "year": 2015,
+    "venue": "Nerdologia",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=pm3do0nEuuM"
+    },
+    "tags": ["virus", "biologia", "medicina"]
+  },
+  {
+    "title": "Buraco Negro | Nerdologia 49",
+    "presenter": "Átila",
+    "year": 2015,
+    "venue": "Nerdologia",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=ThG5RHBR7dA"
+    },
+    "tags": ["astronomia", "fisica"]
+  },
+  {
+    "title": "A Origem da Vida | Nerdologia 132",
+    "presenter": "Átila",
+    "year": 2016,
+    "venue": "Nerdologia",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=rnMYZnY3uLA"
+    },
+    "tags": ["biologia", "evolução"]
   }
 ]
