@@ -77,6 +77,39 @@
     "tags": ["biologia", "evolução"]
   },
   {
+    "title": "Descubra como Silver Tape pode gerar luz",
+    "presenter": "Iberê Thenório",
+    "year": 2015,
+    "venue": "Manual do Mundo",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=uWMVA7I7Tzk"
+    },
+    "tags": ["experimentos"]
+  },
+  {
+    "title": "Microscópio caseiro com webcam ft. Átila Iamarino",
+    "presenter": "Iberê Thenório",
+    "year": 2016,
+    "venue": "Manual do Mundo",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=WufR6iwfQxY"
+    },
+    "tags": ["experimentos"]
+  },
+  {
+    "title": "Fomos à NASA pra mostrar como funciona um foguete",
+    "presenter": "Iberê Thenório",
+    "year": 2016,
+    "venue": "Manual do Mundo",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=mhgtGOcsUqM"
+    },
+    "tags": ["NASA"]
+  },
+  {
     "title": "A USP, o câncer, e a 'cura' (#Pirula 117)",
     "presenter": "Pirula",
     "year": 2015,
