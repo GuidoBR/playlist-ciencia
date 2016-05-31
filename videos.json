@@ -9,5 +9,16 @@
       "youtube": "https://www.youtube.com/watch?v=z71O5cHTOvM"
     },
     "tags": ["nerdologia", "ondas gravitacionais", "fisica", "astronomia"]
+  },
+  {
+    "title": "Exoplanetas | Nerdologia 117",
+    "presenter": "Átila",
+    "year": 2016,
+    "venue": "Nerdologia",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=d_5_MAqsPOM"
+    },
+    "tags": ["nerdologia", "exoplanetas", "fisica", "astronomia"]
   }
 ]
