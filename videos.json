@@ -1,5 +1,27 @@
 [
   {
+    "title": "Quantum Computers Explained – Limits of Human Technology",
+    "presenter": "Kurzgesagt – In a Nutshell",
+    "year": 2015,
+    "venue": "Kurzgesagt – In a Nutshell",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=JhHMJCUmq28"
+    },
+    "tags": ["quantum computeres", "computadores quânticos"]
+  },
+  {
+    "title": "Black Holes Explained – From Birth to Death",
+    "presenter": "Kurzgesagt – In a Nutshell",
+    "year": 2015,
+    "venue": "Kurzgesagt – In a Nutshell",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=e-P5IFTqB98"
+    },
+    "tags": ["buracos negros", "black holes", "fisica", "astronomia"]
+  },
+  {
     "title": "Ondas Gravitacionais | Nerdologia 121",
     "presenter": "Átila",
     "year": 2016,
@@ -145,6 +167,19 @@
     "language": "en",
     "subtitles": ["pt-br"],
     "tags": ["friction", "fricção", "physics", "fisica"]
+  },
+  {
+    "title": "A Equação de Drake (e a Busca por Vida Extraterrestre)",
+    "presenter": "Ciência Todo Dia",
+    "year": 2014,
+    "venue": "Ciência Todo Dia",
+    "slides": "",
+    "videos": {
+      "youtube": "https://www.youtube.com/watch?v=qkdCgsM46CY"
+    },
+    "language": "pt-br",
+    "subtitles": "",
+    "tags": ["astronomia", "vida inteligente", "extraterrestre"]
   },
   {
     "title": "A USP, o câncer, e a 'cura' (#Pirula 117)",
